@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋‍♀️, I'm Jobeda</h1>
 <h3 align="center"> 👨‍💻 Laravel Developer | Software Engineer</h3>
 
- 🔭 I’m currently working on [School Management System](https://shikkha.one/)
+ 🔭 My recent work [Multivendor Ecommerce](https://beautyproductsbd.com/)
  
  📫 How to reach me **kjobeda3@gmail.com**
 
