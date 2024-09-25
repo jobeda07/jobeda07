@@ -11,7 +11,9 @@
 
 💼 Expert in developing scalable and secure RESTful APIs, custom web applications, and e-commerce platforms.
 
-🔧 Proficient in: PHP, Laravel, Vue.js, JavaScript, jQuery, AJAX, HTML5, CSS3, MySQL. Focused on clean, efficient code and adhering to best practices.
+🔧 Proficient in: PHP, Laravel, MySQL, JavaScript, Vue.js, jQuery, AJAX, HTML5, CSS3, Bootstrap 5, Tailwind CSS
+ Focused on clean, efficient code and adhering to best practices.
+
 ☕ Coffee Enthusiast | Energized by coffee, focused on writing clean and efficient code.
 
 📚 Lifelong learner committed to staying current with the latest trends and innovations in web development.
